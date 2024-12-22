@@ -1,0 +1,100 @@
+{
+  "trainers": [
+    {
+      "id": 1,
+      "name": "Dean Leffingwell",
+      "skill": "Keynote Speaker",
+      "avatar": "",
+      "badge": "Filling Fast!",
+      "badge_icon": ""
+    },
+    {
+      "id": 2,
+      "name": "Mike Cohn",
+      "skill": "Engaging Presentation Skills",
+      "avatar": "",
+      "badge": "Early Bird!",
+      "badge_icon": ""
+    },
+    {
+      "id": 3,
+      "name": "Roman Pichler",
+      "skill": "Subject Matter Expertise",
+      "avatar": "",
+      "badge": "Filling Fast!",
+      "badge_icon": ""
+    },
+    {
+      "id": 4,
+      "name": "Lisa Adkins",
+      "skill": "Keynote Speaker",
+      "avatar": "",
+      "badge": "Early Bird!",
+      "badge_icon": ""
+    },
+    {
+      "id": 5,
+      "name": "Alistair Cockburn",
+      "skill": "Technical Proficiency",
+      "avatar": "",
+      "badge": "Filling Fast!",
+      "badge_icon": ""
+    }
+  ],
+  "trainings": [
+    {
+      "id": 1,
+      "name": "Scaled Agile, Inc. (Official SAFe Training)"
+    },
+    {
+      "id": 2,
+      "name": "Scrum Alliance"
+    },
+    {
+      "id": 3,
+      "name": "Agile Alliance Training Partners"
+    },
+    {
+      "id": 4,
+      "name": "ICAgile Certified Agile Coach"
+    },
+    {
+      "id": 5,
+      "name": "Simplilearn"
+    },
+    {
+      "id": 6,
+      "name": "LinkedIn Learning"
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "name": "West Des Moines, IA"
+    },
+    {
+      "id": 2,
+      "name": "Chicago, IL"
+    },
+    {
+      "id": 3,
+      "name": "Phoenix, AZ"
+    },
+    {
+      "id": 4,
+      "name": "Dallas, TX"
+    },
+    {
+      "id": 5,
+      "name": "San Diego, CA"
+    },
+    {
+      "id": 6,
+      "name": "San Francisco, CA"
+    },
+    {
+      "id": 7,
+      "name": "New York, ZK"
+    }
+  ]
+}
